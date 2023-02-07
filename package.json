@@ -1,0 +1,25 @@
+{
+  "name": "alpha-3.0",
+  "version": "1.0.0",
+  "description": "Learning Topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeshavCh0udhary/Alpha-3.0.git"
+  },
+  "author": "Krishna Keshav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeshavCh0udhary/Alpha-3.0/issues"
+  },
+  "homepage": "https://github.com/KeshavCh0udhary/Alpha-3.0#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.16.0"
+  }
+}
